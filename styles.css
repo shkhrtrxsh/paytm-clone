@@ -1,0 +1,49 @@
+.xxx{
+    width: 128;
+}
+.zzz{
+    width: 539;
+    height: 460;
+}
+.xyz{
+    height: 77px;
+    width: auto;
+    padding-right: 12px;
+}
+@media (max-width: 600px) {
+    .zzz {
+      height: 300;
+    }
+  }
+  .kkk{
+    width: auto;
+    height: 77px;
+  }
+  .lll{
+    height: 296px;
+
+  }
+  .jjj{
+    width: auto;
+    height: 20px;
+  }
+  .spikes{
+    background-image:url('./images/gray-spike-3.webp');
+    padding-bottom: 100px;
+    background-size: cover;
+  }
+  .gg{
+    width: 472px;
+    z-index: 1;
+  }
+  .fifi{
+    height: 54px;
+    width: 144px;
+  }
+  .ccc{
+    height: 220px;
+    width: 240px;
+  }
+  .xxxx{
+    background-color: rgb(242, 241, 241);
+  }
